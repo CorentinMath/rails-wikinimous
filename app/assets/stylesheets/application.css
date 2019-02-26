@@ -13,3 +13,25 @@
  *= require_tree .
  *= require_self
  */
+
+.article {
+  font-style: Roboto;
+}
+
+.article h2 {
+  color: #337ab7;
+  font-style: Roboto;
+  text-decoration: none;
+ }
+
+.article a {
+  color: #337ab7;
+  font-style: Roboto;
+  text-decoration: none;
+ }
+
+.container {
+  font-style: Roboto;
+  margin: 20px;
+
+}
